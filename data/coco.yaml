@@ -1,5 +1,5 @@
-train: /content/drive/MyDrive/uwarg-data/landing_pad_coco/train
-val: /content/drive/MyDrive/uwarg-data/landing_pad_coco/val
+train: /content/drive/MyDrive/uwarg_data/landing_pad_coco/train
+val: /content/drive/MyDrive/uwarg_data/landing_pad_coco/val
 
 # number of classes
 nc: 185
